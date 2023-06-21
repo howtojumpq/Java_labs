@@ -1,0 +1,9 @@
+<web-app>
+<display-name>Archetype Created Web Application</display-name>
+    <jsp-config>
+        <taglib>
+            <taglib-uri>MyTag</taglib-uri>
+            <taglib-location>/WEB-INF/MyTag.tld</taglib-location>
+        </taglib>
+    </jsp-config>
+</web-app>
